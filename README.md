@@ -65,4 +65,4 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
 Jelsy Manuel Diaz Jiménez - jelsymdiazj@gmail.com
 
-Link del Proyecto: 
+Link del Proyecto: https://github.com/ZaidYslej/FastApi---Videogames/tree/main
