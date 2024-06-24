@@ -19,7 +19,7 @@ Esta API proporciona endpoints para gestionar una base de datos de videojuegos, 
 ## Instalación
 
 1. Clonar el repositorio.
-2. Crear un entorno virtual e instalar las dependencias:
+2. Crear un entorno virtual e instalar las dependencias.
 3. Configurar la base de datos:
 - Crear una base de datos PostgreSQL
 - Actualizar la URL de la base de datos en `app/database.py`
