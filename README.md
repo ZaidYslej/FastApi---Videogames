@@ -1,4 +1,4 @@
-FastApi - Videogames
+## FastApi - Videogames
 
 Esta API proporciona endpoints para gestionar una base de datos de videojuegos, incluyendo operaciones CRUD y autenticación de usuarios.
 
